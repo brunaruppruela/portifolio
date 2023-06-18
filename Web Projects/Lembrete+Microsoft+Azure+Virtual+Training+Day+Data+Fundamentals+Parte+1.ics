@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:-//Microsoft Corporation//Outlook 11.0 MIMEDIR//EN
+BEGIN:VEVENT
+UID:13318647b9805a99c5
+DTSTAMP:20230603T194405Z
+DTSTART:20230619T173000Z
+DTEND:20230619T210000Z
+SUMMARY:Lembrete: Microsoft Azure Virtual Training Day: Data Fundamentals Parte 1
+LOCATION:Evento digital
+DESCRIPTION:Como participar do treinamento virtual: \n\nClique no link para participar: https://event.on24.com/wcc/r/4218690/8B07584A3CB8E583A50360573C0C484F. Este link é exclusivo de cada participante e não deve ser encaminhado.
+END:VEVENT
+END:VCALENDAR
